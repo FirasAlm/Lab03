@@ -8,7 +8,7 @@ public class test{
                 System.out.println(i) ;
             else 
                 System.out.print(i+" , ");
-            i += 10 ; 
+            i += 5 ; 
         } 
     }
 }
